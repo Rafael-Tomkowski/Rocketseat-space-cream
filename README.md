@@ -23,7 +23,7 @@
 
   O projeto foi uma ideia criada pela Rocketseat no seu curso Explorer. Após a sessão do curso, o projeto e proposto para que o aluno consiga, sozinho, desenvolver suas habilidades em html e css através da pratica!
   
-  A ideia do projeto é criar uma loja de sorvetes virtual com design responsivo, tendo 4 breakpoints de responsividade; utilizando cards com posições relativas, animações, transições e display grid com grid template
+  A ideia do projeto é criar uma loja de sorvetes virtual utilizando o método de mobile first com design responsivo, tendo 4 breakpoints de responsividade; criando cards com posições relativas, animações, transições e display grid com grid template
 
 # 👨‍🎓 O que aprendi
 
